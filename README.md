@@ -12,9 +12,7 @@ I'm **Boya chandrakala**, a passionate developer
 - Database: SQL
 - Tools: Git
 
-## 🌟 Featured Projects
-*(Pin your top repos on GitHub to auto-populate this section, or list them manually.)*
-
+## 🌟 Featured Project
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
 | *Repo Name* | *Brief description* | *Languages* | *⭐ Count* |

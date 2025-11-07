@@ -1,21 +1,16 @@
 # Hi there 👋
 
-I'm **Boya chandrakala**, a passionate developer (or add your role/interests here!).
+I'm **Boya chandrakala**, a passionate developer 
 
 ## 📊 Quick Stats
-- **Public Repos**: 0 (Start building your portfolio!)
-- **Followers**: Not specified (Let's connect!)
-- **Following**: Not specified
 - **Location**: Andhra Pradesh, India
 - **Email**: boyachandrakala930@gmail.com
 
-*(Your profile currently has no bio, contributions graph, or pinned repos—add some projects to populate this!)*
-
 ## 🛠️ Tech Stack
-*Share your favorite tools and languages here:*
-- Languages: *e.g., Python, JavaScript*
-- Frameworks: *e.g., React, Django*
-- Tools: *e.g., Git, Docker*
+- Languages: Java, JavaScript, HTML5, CSS3
+- Frameworks: React.js
+- Database: SQL
+- Tools: Git
 
 ## 🌟 Featured Projects
 *(Pin your top repos on GitHub to auto-populate this section, or list them manually.)*

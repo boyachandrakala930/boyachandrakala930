@@ -9,8 +9,7 @@ I'm **Boya chandrakala**, a passionate developer
 ## 🛠️ Tech Stack
 - Languages: Java, JavaScript, HTML5, CSS3
 - Frameworks: React.js
-- Database: SQL
-- Tools: Git
+- Databases & Tools: SQL, Git, GitHub, VS Code
 
 ## 🌟 Featured Project
 | Project | Description | Tech | Stars |

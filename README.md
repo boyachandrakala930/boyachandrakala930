@@ -18,7 +18,6 @@ I'm **Boya chandrakala**, a passionate developer
 | *Repo Name* | *Brief description* | *Languages* | *⭐ Count* |
 
 ## 📈 GitHub Stats
-*(Add a dynamic badge for contributions—replace with your username.)*
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=boyachandrakala930&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boyachandrakala930&layout=compact&theme=radical)
@@ -29,4 +28,4 @@ I'm **Boya chandrakala**, a passionate developer
 
 ---
 
-⭐ **Star this repo if it helps!** Feel free to fork and customize.
+⭐ **Star this repo if it helps!**
